@@ -1,4 +1,4 @@
-<img src="https://github.com/lalit22km/lalit22km/blob/main/010101.png?raw=true" alt="Hi!"/>
+<img src="https://github.com/lalit22km/lalit22km/blob/main/banner.png?raw=true" alt="Hi!"/>
 <h3 align="center">A VFX student who codes for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit22km&label=Profile%20views&color=0e75b6&style=plastic" alt="lalit22km" /> </p>
